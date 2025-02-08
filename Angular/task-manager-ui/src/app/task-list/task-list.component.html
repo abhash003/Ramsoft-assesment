@@ -1,0 +1,11 @@
+<div *ngFor="let task of tasks">
+  <div class="task-card">
+    <h3>{{ task.name }}</h3>
+    <p>{{ task.description }}</p>
+    <p>Deadline: {{ task.deadline | date }}</p>
+    <button (click)="favoriteTask(task.id)">
+      {{ task.isFavorite ? 'Unfavorite' : 'Favorite' }}
+    </button>
+    <button (click)="deleteTask(task.id)">Delete</button>
+  </div>
+</div>

@@ -1,38 +1,34 @@
 ﻿using Ramsoft_Assessment.modal;
+using WebApi.Data.Repository.DataBase;
 using Task = Ramsoft_Assessment.modal.Task;
 
 namespace Ramsoft_Assessment.Services
 {
-    public class TaskService
+    public class TaskService : ITaskService
     {
         private readonly TaskBoard _taskBoard;
+        private TaskDBContext _taskDBContext;
 
-        public TaskService()
+        public TaskService(TaskDBContext dBContext)
         {
+            _taskDBContext = dBContext;
             _taskBoard = new TaskBoard();
         }
 
         public List<Task> GetAllTasks()
         {
-            return _taskBoard.ToDo
-                .Concat(_taskBoard.InProgress)
-                .Concat(_taskBoard.Done)
-                .OrderBy(t => t.IsFavorite ? 0 : 1) // Favorites first
-                .ThenBy(t => t.Name) // Then sort alphabetically
-                .ToList();
+            return _taskDBContext.Tasks.ToList();
         }
 
         public Task GetTaskById(int id)
         {
-            return _taskBoard.ToDo
-                .Concat(_taskBoard.InProgress)
-                .Concat(_taskBoard.Done)
-                .FirstOrDefault(t => t.Id == id);
+            return _taskDBContext.Tasks.FirstOrDefault(x => x.Id == id);
         }
 
         public void AddTask(Task task)
         {
             _taskBoard.ToDo.Add(task);
+            _taskDBContext.SaveChanges();
         }
 
         public void EditTask(int id, Task updatedTask)
@@ -55,6 +51,7 @@ namespace Ramsoft_Assessment.Services
                 _taskBoard.InProgress.Remove(task);
                 _taskBoard.Done.Remove(task);
             }
+            _taskDBContext.SaveChanges();
         }
 
         public void MoveTask(int id, string targetColumn)
@@ -75,6 +72,8 @@ namespace Ramsoft_Assessment.Services
                 else if (targetColumn == "Done")
                     _taskBoard.Done.Add(task);
             }
+
+            _taskDBContext.SaveChanges();
         }
 
         public void FavoriteTask(int id)
@@ -84,6 +83,7 @@ namespace Ramsoft_Assessment.Services
             {
                 task.IsFavorite = true;
             }
+            _taskDBContext.SaveChanges();
         }
 
         public void UnfavoriteTask(int id)
@@ -93,6 +93,7 @@ namespace Ramsoft_Assessment.Services
             {
                 task.IsFavorite = false;
             }
+            _taskDBContext.SaveChanges();
         }
     }
 }

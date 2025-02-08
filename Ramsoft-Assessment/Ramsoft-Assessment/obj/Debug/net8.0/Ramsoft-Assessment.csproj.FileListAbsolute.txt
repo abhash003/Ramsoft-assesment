@@ -34,3 +34,4 @@ C:\Source\Ramsoft-assesment\Ramsoft-Assessment\Ramsoft-Assessment\bin\Debug\net8
 C:\Source\Ramsoft-assesment\Ramsoft-Assessment\Ramsoft-Assessment\obj\Debug\net8.0\Ramsoft-Assessment.csproj.AssemblyReference.cache
 C:\Source\Ramsoft-assesment\Ramsoft-Assessment\Ramsoft-Assessment\obj\Debug\net8.0\Ramsoft-Assessment.MvcApplicationPartsAssemblyInfo.cs
 C:\Source\Ramsoft-assesment\Ramsoft-Assessment\Ramsoft-Assessment\obj\Debug\net8.0\Ramsoft-.4ABBD3D5.Up2Date
+C:\Source\Ramsoft-assesment\Ramsoft-Assessment\Ramsoft-Assessment\obj\Debug\net8.0\Ramsoft-Assessment.sourcelink.json

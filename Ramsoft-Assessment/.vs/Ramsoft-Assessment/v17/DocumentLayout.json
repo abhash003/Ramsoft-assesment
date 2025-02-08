@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\controller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\controller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\modal\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\modal\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\modal\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\modal\\taskboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\modal\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\modal\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\ramsoft-assessment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\ramsoft-assessment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|c:\\source\\ramsoft-assesment\\ramsoft-assessment\\ramsoft-assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB94AB2-8BAF-4369-9C48-DA9EB2DFBDEE}|Ramsoft-Assessment\\Ramsoft-Assessment.csproj|solutionrelative:ramsoft-assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,78 +86,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "Ramsoft-Assessment\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "Ramsoft-Assessment\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:31:12.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Ramsoft-Assessment\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Services\\ITaskService.cs",
+              "RelativeToolTip": "Ramsoft-Assessment\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:28:51.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ramsoft-Assessment.http",
+              "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Ramsoft-Assessment.http",
+              "RelativeDocumentMoniker": "Ramsoft-Assessment\\Ramsoft-Assessment.http",
+              "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Ramsoft-Assessment.http",
+              "RelativeToolTip": "Ramsoft-Assessment\\Ramsoft-Assessment.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-06T14:23:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ramsoft-Assessment\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ramsoft-Assessment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T14:23:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\appsettings.json",
               "RelativeDocumentMoniker": "Ramsoft-Assessment\\appsettings.json",
               "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\appsettings.json",
               "RelativeToolTip": "Ramsoft-Assessment\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-01T06:28:41.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Program.cs",
               "RelativeDocumentMoniker": "Ramsoft-Assessment\\Program.cs",
               "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Program.cs",
               "RelativeToolTip": "Ramsoft-Assessment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T06:08:32.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Controller\\TaskController.cs",
               "RelativeDocumentMoniker": "Ramsoft-Assessment\\Controller\\TaskController.cs",
               "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Controller\\TaskController.cs",
               "RelativeToolTip": "Ramsoft-Assessment\\Controller\\TaskController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T06:02:11.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "Ramsoft-Assessment\\Services\\TaskService.cs",
               "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\Services\\TaskService.cs",
               "RelativeToolTip": "Ramsoft-Assessment\\Services\\TaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T05:59:57.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TaskBoard.cs",
               "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\modal\\TaskBoard.cs",
               "RelativeDocumentMoniker": "Ramsoft-Assessment\\modal\\TaskBoard.cs",
               "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\modal\\TaskBoard.cs",
               "RelativeToolTip": "Ramsoft-Assessment\\modal\\TaskBoard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T05:59:28.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\modal\\Task.cs",
               "RelativeDocumentMoniker": "Ramsoft-Assessment\\modal\\Task.cs",
               "ToolTip": "C:\\Source\\Ramsoft-assesment\\Ramsoft-Assessment\\Ramsoft-Assessment\\modal\\Task.cs",
               "RelativeToolTip": "Ramsoft-Assessment\\modal\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T05:55:48.717Z",
               "EditorCaption": ""
